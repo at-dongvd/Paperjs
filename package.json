@@ -1,0 +1,10 @@
+{
+  "name": "SocketioExample",
+  "version": "0.0.1",
+  "description": "SocketioExample",
+  "dependencies": {
+    "paper": "^0.10.2",
+    "socket.io": "latest"
+  },
+  "author": "dev"
+}
